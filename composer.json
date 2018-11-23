@@ -1,0 +1,15 @@
+{
+    "name": "licxisky/collection",
+    "version": "1.0.1",
+    "description": "PHP Array Collection",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "licxisky",
+            "email": "licxisky@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
